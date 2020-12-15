@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/spaceman/static/css/main.5c6dbde2.chunk.css",
-    "main.js": "/spaceman/static/js/main.59b98e81.chunk.js",
-    "main.js.map": "/spaceman/static/js/main.59b98e81.chunk.js.map",
+    "main.js": "/spaceman/static/js/main.22425393.chunk.js",
+    "main.js.map": "/spaceman/static/js/main.22425393.chunk.js.map",
     "runtime-main.js": "/spaceman/static/js/runtime-main.96e91c47.js",
     "runtime-main.js.map": "/spaceman/static/js/runtime-main.96e91c47.js.map",
-    "static/js/2.6df301b7.chunk.js": "/spaceman/static/js/2.6df301b7.chunk.js",
-    "static/js/2.6df301b7.chunk.js.map": "/spaceman/static/js/2.6df301b7.chunk.js.map",
+    "static/js/2.3a276bb1.chunk.js": "/spaceman/static/js/2.3a276bb1.chunk.js",
+    "static/js/2.3a276bb1.chunk.js.map": "/spaceman/static/js/2.3a276bb1.chunk.js.map",
     "index.html": "/spaceman/index.html",
     "static/css/main.5c6dbde2.chunk.css.map": "/spaceman/static/css/main.5c6dbde2.chunk.css.map",
-    "static/js/2.6df301b7.chunk.js.LICENSE.txt": "/spaceman/static/js/2.6df301b7.chunk.js.LICENSE.txt",
+    "static/js/2.3a276bb1.chunk.js.LICENSE.txt": "/spaceman/static/js/2.3a276bb1.chunk.js.LICENSE.txt",
     "static/media/space3.0cc18b8a.jpg": "/spaceman/static/media/space3.0cc18b8a.jpg",
-    "static/media/spaceman.de241e65.gltf": "/spaceman/static/media/spaceman.de241e65.gltf"
+    "static/media/spaceman.d205b536.gltf": "/spaceman/static/media/spaceman.d205b536.gltf",
+    "static/media/spacemanbutt.ea5908cc.gltf": "/spaceman/static/media/spacemanbutt.ea5908cc.gltf"
   },
   "entrypoints": [
     "static/js/runtime-main.96e91c47.js",
-    "static/js/2.6df301b7.chunk.js",
+    "static/js/2.3a276bb1.chunk.js",
     "static/css/main.5c6dbde2.chunk.css",
-    "static/js/main.59b98e81.chunk.js"
+    "static/js/main.22425393.chunk.js"
   ]
 }
